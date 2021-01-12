@@ -23,7 +23,7 @@ This problem is similar to "Count Subsets of Given Sum" where given sum is s1.  
 These problems can be solved using reference of standard lcs problem.<br> 
 ### 6.[Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)<br>
 Given two sequences, find the length of longest subsequence present in both of them. <br>
-### 7.[Longest Palindromic Sub](https://leetcode.com/problems/longest-palindromic-subsequence/)<br>
+### 7.[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)<br>
 Given a string s, find the longest palindromic subsequence's length in s.<br>
 
 
